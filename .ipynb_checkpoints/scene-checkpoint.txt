@@ -1,0 +1,6 @@
+scene pred:
+91(church/outdoor) 0.9995
+296(schoolhouse) 0.0002
+242(oast_house) 0.0001
+200(kasbah) 0.0001
+193(inn/outdoor) 0.0001
